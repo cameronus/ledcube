@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ledcube")(type "KiCad")(uri "${KIPRJMOD}/ledcube.kicad_sym")(options "")(descr ""))
+)
