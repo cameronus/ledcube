@@ -1,0 +1,14 @@
+# macOS system file
+.DS_Store
+
+# Local settings
+*.kicad_prl
+
+# Backups
+**/*-backups/
+
+# Footprint info cache
+fp-info-cache
+
+# Autosave files
+_autosave-*
