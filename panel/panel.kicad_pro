@@ -236,14 +236,14 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "ledcube"
+      "panel"
     ],
     "pinned_symbol_libs": [
-      "ledcube"
+      "panel"
     ]
   },
   "meta": {
-    "filename": "ledcube.kicad_pro",
+    "filename": "panel.kicad_pro",
     "version": 1
   },
   "net_settings": {
