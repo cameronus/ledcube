@@ -1,5 +1,5 @@
 (footprint "MHPA1515RGBDT" (version 20210623) (generator pcbnew) (layer "F.Cu")
-  (tedit 60F82664)
+  (tedit 60F9585B)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -0.5 180) (layer "F.SilkS") hide
     (effects (font (size 0.2 0.2) (thickness 0.04)))
@@ -30,4 +30,9 @@
   (pad "2" smd roundrect locked (at 0.6 0.4 180) (size 0.45 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 6cd89b81-c794-4314-be66-8f81973b8b6f))
   (pad "3" smd roundrect locked (at -0.6 0.4 180) (size 0.45 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 2253bd91-a1cd-4319-9038-e1d00aea5ddd))
   (pad "4" smd roundrect locked (at -0.6 -0.4 180) (size 0.45 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 0fc54511-e3a7-4cb1-9de7-53f3564b0f59))
+  (model "${KIPRJMOD}/3d/MHPA1515RGBDT.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
