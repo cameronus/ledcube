@@ -1,6 +1,6 @@
-(footprint "MHPA1515RGBDT" (version 20210623) (generator pcbnew) (layer "F.Cu")
-  (tedit 60F9585B)
-  (attr through_hole)
+(footprint "MHPA1515RGBDT" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 60FD6193)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -0.5 180) (layer "F.SilkS") hide
     (effects (font (size 0.2 0.2) (thickness 0.04)))
     (tstamp dd360b7b-e6af-4fb9-8c70-61555568aa93)
